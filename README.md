@@ -1,12 +1,12 @@
-# abj cloud solutions 
- A abj-cloud-solutions starter kit.
+# multi-authentication-vue
+ A multi-authentication-vue starter kit.
 
 
 ## Installation
 
-- `git clone https://github.com/mahendrancse88/abj-cloud-solutions.git`
+- `git clone https://github.com/mahendrancse88/multi-authentication-vue.git`
 - Edit `.env` and set your database connection details
-- cd abj-cloud-solutions
+- cd multi-authentication-vue
 - (When installed via git clone or download, run `php artisan key:generate` and `php artisan jwt:secret`)
 - `php artisan migrate`
 - `npm install`
@@ -40,31 +40,6 @@ vendor/bin/phpunit
 php artisan dusk
 ```
 
-#### OUTPUT ON Browser
-
-# Home Page
-<img src="./asset-output/home.png">
-
-# Login Page
-<img src="./asset-output/login.png">
-
-# Register Page
-<img src="./asset-output/register.png">
-
-# Forgot Password Page
-<img src="./asset-output/forget-password.png">
-
-# logged in Page
-<img src="./asset-output/looged.png">
-
-# developer lists Page
-<img src="./asset-output/developer.png">
-
-# add developer  Page
-<img src="./asset-output/add-developer.png">
-
-# multiple records deletion
-<img src="./asset-output/multiple-delete.png">
 
 
 ## Changelog
